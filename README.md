@@ -1,10 +1,11 @@
-- Gustavo
+- Sup, I'm Gustavo
 
-- I’m interested in making art, games and other stuff
+- Learning HTML, CSS, Java, JS, MySQL, PHP, Python and GDScript
 
-- I’m learning HTML, CSS, Java, JS, MySQL, PHP, Python and GDScript
+- Interested in making art, games and other stuff
 
-- LinkedIn: https://www.linkedin.com/in/gustavooli
+- LinkedIn:
+  https://www.linkedin.com/in/gustavooli
 
 - Contact me:
 

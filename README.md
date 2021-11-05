@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Gustavo
+- Gustavo
 
-- 👀 I’m interested in making art, games and other stuff
+- I’m interested in making art, games and other stuff
 
-- 🌱 I’m currently learning HTML, CSS, Java, JS, MySQL and GDScript
+- I’m learning HTML, CSS, Java, JS, MySQL, PHP, Python and GDScript
 
 <!---
 gustavoolivv/gustavoolivv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

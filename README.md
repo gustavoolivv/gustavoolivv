@@ -1,10 +1,8 @@
-- Sup, I'm Gustavo
-
-- Learning HTML, CSS, Java, JS, MySQL, PHP, Python and GDScript
-
-- Interested in making art, games and other stuff
-
-<!---
-gustavoolivv/gustavoolivv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sup, I'm Gustavo 👊
+I'm currently learning HTML, CSS, Java, JS, MySQL, PHP and GDScript.
+I'm really into making art, games and other stuff!!
+ 
+<div align="center">
+  <a href="https://github.com/gustavoolivv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoolivv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>

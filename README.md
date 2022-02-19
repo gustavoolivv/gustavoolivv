@@ -1,5 +1,5 @@
-## Sup, I'm Gustavo 👊
-I'm currently learning HTML, CSS, Java, JS, MySQL, PHP and GDScript.
+## Sup, I'm Gustavo, I'm a programming student
+I'm currently learning HTML, CSS, JS, JAVA, MySQL, PHP, C, C#, C++, Python, Lua and GDScript.
 I'm really into making art, games and other stuff.
  
 <div align="center">

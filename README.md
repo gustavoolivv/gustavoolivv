@@ -1,7 +1,7 @@
 ## Sup, I'm Gustavo, I'm a programming student
--I'm currently learning HTML, CSS, JS, JAVA, MySQL, C, Python and GDScript.
+-I'm currently learning HTML, CSS, JS, JAVA, C, Python and GDScript.
 
--In the future, I want to learn C++, C#, Lua and PHP as well.
+-In the future, I want to learn C++, C#, Lua and Ruby as well.
 
 -I'm really into making art, games and other stuff.
  
